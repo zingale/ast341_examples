@@ -23,3 +23,13 @@ notebook in binder with the following link:
 
 (it may take a few minutes to start up)
 
+
+## Orbits
+
+The notebook `orbits.ipynb` shows how to integrate the equations of
+motion for Earth orbiting around the Sun using Euler's method.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zingale/ast341_examples/master?filepath=orbits_example%2Forbits.ipynb)
+
+(it may take a few minutes to start up)
+
