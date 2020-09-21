@@ -33,7 +33,7 @@ motion for Earth orbiting around the Sun using Euler's method.
 
 (it may take a few minutes to start up)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zingale/ast341_examples/orbits_example/orbits.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zingale/ast341_examples/orbits_example/orbit.ipynb)
 
 
 
