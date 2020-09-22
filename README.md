@@ -24,6 +24,14 @@ notebook in binder with the following link:
 (it may take a few minutes to start up)
 
 
+## Nuclear Reactions
+
+You can replay the interactive exploration of the transition from pp -> CNO -> hot-CNO with this
+notebook:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pynucastro/pynucastro/main?filepath=examples%2Fpp-CNO-example.ipynb)
+
+
 ## Orbits
 
 The notebook `orbits.ipynb` shows how to integrate the equations of
