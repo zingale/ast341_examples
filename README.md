@@ -44,4 +44,12 @@ motion for Earth orbiting around the Sun using Euler's method.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zingale/ast341_examples/blob/master/orbits_example/orbit.ipynb)
 
 
+## Polytropes
+
+The notebook `lane-emden.ipynb` integrates the Lane-Emden equation for
+polytropes and explores the solution.  A class implementing
+Runge-Kutta integration is provided, as well as an alternate solution
+that uses the SciPy `solve_ivp()` method.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zingale/ast341_examples/blob/master/polytrope/lane-emden.ipynb)
 
