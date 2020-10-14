@@ -51,5 +51,5 @@ polytropes and explores the solution.  A class implementing
 Runge-Kutta integration is provided, as well as an alternate solution
 that uses the SciPy `solve_ivp()` method.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zingale/ast341_examples/blob/master/polytrope/lane-emden.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zingale/ast341_examples/blob/master/polytropes/lane-emden.ipynb)
 
